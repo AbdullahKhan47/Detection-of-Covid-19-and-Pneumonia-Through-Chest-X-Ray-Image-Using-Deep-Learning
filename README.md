@@ -6,6 +6,7 @@ This project is build by myself in python using deep Learning and CNN concepts. 
 The CNN model has a accuracy of 97%. The data figures are Covid-19 images=2600, Pneumonia images=3100, Normal images=6200.
 
 The Landing Page of the Project
+
 ![image](https://user-images.githubusercontent.com/72974690/120773212-8ed48700-c53a-11eb-841f-6f669fa19aa9.png)
 
 It works this type of Chest X-rays images.
