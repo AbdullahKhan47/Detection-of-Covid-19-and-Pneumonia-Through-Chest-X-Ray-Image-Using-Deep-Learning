@@ -5,6 +5,14 @@ This project is build by myself in python using deep Learning and CNN concepts. 
 
 The CNN model has a accuracy of 97%. The data figures are Covid-19 images=2600, Pneumonia images=3100, Normal images=6200.
 
+# Flow of the Project
+. Enter details of Patient in field (Regex validation applied on all feilds)
+. All the details will be saved in a csv file at the project directory
+. Browse image from the system
+. Select the image and Test the image
+. A report with patient details will be generated with the test results
+. User can either save the report in pdf format.
+
 The Landing Page of the Project
 
 ![image](https://user-images.githubusercontent.com/72974690/120773212-8ed48700-c53a-11eb-841f-6f669fa19aa9.png)
@@ -17,4 +25,5 @@ It works this type of Chest X-rays images.
 Any Python Compiler
 
 # Note:
+Run FYPFrontendDemo.py file to run the whole project.
 Open the .PY file to open the full project.. You are more than welcome to improve the Programs by contributing to them. Star the repo if you found it useful.
